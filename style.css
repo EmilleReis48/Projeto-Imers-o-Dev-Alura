@@ -13,6 +13,8 @@ body {
     margin: 0; /* Remove a margem padrão */
     padding: 0; /* Remove o padding padrão */
     background-image: url('https://img.freepik.com/fotos-gratis/ilustracao-de-arte-digital-de-paisagens-de-selva_23-2151403351.jpg?t=st=1725499025~exp=1725502625~hmac=37e9e3768669480a051b0e6f21ed70831394ac17541c722e758b14159a89abb1&w=996');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 /* Estiliza os títulos h1 */
